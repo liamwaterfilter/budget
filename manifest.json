@@ -3,7 +3,7 @@
   "short_name": "Budget",
   "description": "Personal budgeting app",
   "start_url": "./index.html",
-  "display": "standalone",
+  "display": "browser",
   "background_color": "#010409",
   "theme_color": "#010409",
   "orientation": "portrait",

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'budget-v1';
+const CACHE_NAME = 'budget-v3';
 const ASSETS = ['./index.html', './manifest.json'];
 
 self.addEventListener('install', e => {
